@@ -11,7 +11,7 @@ body {
     background: white; /* Define o fundo branco */
 }
 .topo {
-    background: rgb(128, 0, 0); /* Define a cor de fundo */
+    background: rgb(0, 124, 128); /* Define a cor de fundo */
     height: 15%; /* Define altura do topo */
     text-align: center; /* Centraliza o texto */
     color: white; /* Define cor do texto */
